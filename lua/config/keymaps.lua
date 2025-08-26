@@ -8,7 +8,7 @@ vim.api.nvim_set_keymap("i", "jj", "<Esc>", { noremap = false })
 vim.api.nvim_set_keymap(
   "n",
   "<leader>A",
-  ":e ~/.zaliases<CR>",
+  ":e ~/.config/zsh/.zaliases<CR>",
   { desc = "Open .zaliases file", noremap = true, silent = true }
 )
 
@@ -16,6 +16,6 @@ vim.api.nvim_set_keymap(
 vim.api.nvim_set_keymap(
   "n",
   "<leader>a",
-  ":e ~/.zshrc<CR>",
+  ":e ~/.config/zsh/.zshrc<CR>",
   { desc = "Open .zshrc file", noremap = true, silent = true }
 )
