@@ -6,5 +6,5 @@ Based on [LazyVim](https://github.com/LazyVim/LazyVim).
 # nvim-lazy
 2025-08-23 Lazyvim config.. 
 
-- Replaced Snack-Explorer with Yazi.nvim
+- Replaced Snacks-Explorer with Yazi.nvim
 - Replaced Telescope with Fzflua
